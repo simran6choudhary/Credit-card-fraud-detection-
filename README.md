@@ -47,14 +47,14 @@ Models were trained on the SMOTE-balanced data and evaluated solely on the untou
 
 Model	Type	Training Data	Evaluation Metric Focus
 Isolation Forest	Unsupervised (Anomaly)	Original Training Data	
-Baseline for Recall/Precision [cite: 215]
+Baseline for Recall/Precision 
 
 Random Forest	Supervised (Ensemble)	
-SMOTE-Balanced Training Data [cite: 222]
+SMOTE-Balanced Training Data 
 
 Robust performance comparison
 XGBoost	Supervised (Boosting)	
-SMOTE-Balanced Training Data [cite: 236]
+SMOTE-Balanced Training Data 
 
 Highest performance potential
 
