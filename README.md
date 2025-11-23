@@ -69,7 +69,7 @@ Final Selection Rationale: XGBoost was selected as the final model due to its su
 Feature Importance: Analysis revealed that several anonymized V-features (e.g., V14,V17,V10) were the most critical statistical predictors of fraud, driving the model's decision-making process.
 
 
-Final Key Result: The Tuned XGBoost Model achieved a Recall of XX% (catching XX% of all fraud) with a Precision of YY% (meaning YY% of all transactions flagged were genuinely fraudulent). 
+Final Key Result: The Tuned XGBoost Model achieved a Recall of 83.1%. 
 
 Future Work:
 
